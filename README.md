@@ -95,40 +95,38 @@ Acesse em: http://127.0.0.1:8000/
 ```
 
 ---
-📈 Exemplos de Uso
 
-Usuário acessa o site → vê geração solar atual, previsão de energia e consumo por dispositivo.
+## 📈 Exemplos de Uso
 
-O sistema identifica que o micro-ondas consome energia em standby durante o dia → recomenda deixá-lo ligado apenas entre 20h e 00h.
+- O usuário acessa o site → visualiza **geração solar atual**, **previsão de energia** e **consumo por dispositivo**.  
+- O sistema detecta que o **micro-ondas consome energia em standby** durante o dia → recomenda deixá-lo ligado apenas entre **20h e 00h**.  
+- O usuário pode:  
+  - ✅ **Aceitar pelo site**  
+  - 🎙️ **Perguntar à Alexa**: *“Quais são minhas recomendações de energia hoje?”*  
+  - ⚡ **Permitir automação** → Alexa aplica automaticamente a configuração.  
 
-O usuário pode:
+---
 
-Aceitar via site
+## 🧪 Status do Projeto
 
-Perguntar para a Alexa → “Quais são minhas recomendações de energia hoje?”
+- ✅ Versão acadêmica funcional  
+- ☁️ Hospedado no **Heroku**  
+- 🔜 Futuro: implantação em servidores próprios da **GoodWe**  
 
-Autorizar a Alexa a aplicar automaticamente a configuração.
+---
 
-🧪 Status do Projeto
+## 👨‍💻 Autores
 
-✅ Versão acadêmica funcional
-☁️ Hospedado no Heroku
-🔜 Futuro: implantação em servidores próprios da GoodWe
+Projeto desenvolvido por estudantes da **FIAP**, em parceria com a **GoodWe**:  
 
-👨‍💻 Autores
+- Bento Donato Garcia  
+- Fernando Pimentel Soriano  
+- João Victor Alves de Abreu  
+- Lucas Franco de Godoy Fortes  
+- Luiz Henrique Macedo Graça  
 
-Projeto desenvolvido por estudantes da FIAP em parceria com a GoodWe:
+---
 
-Bento Donato Garcia
+## 📜 Licença
 
-Fernando Pimentel Soriano
-
-João Victor Alves de Abreu
-
-Lucas Franco de Godoy Fortes
-
-Luiz Henrique Macedo Graça
-
-📜 Licença
-
-Este projeto é acadêmico, mas está em parceria com a GoodWe.
+Este projeto é de caráter **acadêmico**, desenvolvido em colaboração com a **GoodWe**.  
