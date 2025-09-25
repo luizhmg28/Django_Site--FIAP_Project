@@ -92,8 +92,9 @@ python manage.py runserver
 
 Acesse em: http://127.0.0.1:8000/
 
-bash```
+```
 
+---
 📈 Exemplos de Uso
 
 Usuário acessa o site → vê geração solar atual, previsão de energia e consumo por dispositivo.
